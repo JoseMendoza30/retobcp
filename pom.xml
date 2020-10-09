@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bcp</groupId>
-	<artifactId>app</artifactId>
+	<artifactId>retobcp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>app</name>
+	<name>retobcp</name>
 	<description>Desafío técnico BCP</description>
 
 	<properties>
